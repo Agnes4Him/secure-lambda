@@ -22,5 +22,7 @@
 * Basic knowledege of AWS
 * AWS Account with admin privilege
 * AWS cli
+* Python
+* Pipenv or any Python virtual environment creating tool
 * Git/ GitHub Account (to clone project repository)
 * API clients (Postman, Thunderclient etc)
