@@ -26,3 +26,20 @@
 * Pipenv or any Python virtual environment creating tool
 * Git/ GitHub Account (to clone project repository)
 * API clients (Postman, Thunderclient etc)
+
+// Sub-headings
+* Introduction
+* Requirements
+* Objectives
+* Steps
+- AWS Set up
+- Clone GitHub repository
+- SNS set up
+- Secrets Manager det up
+- Internal Lambda with roles & permissions set up
+- External Lambda 1 & 2 with roles & permissions set up
+- WAF set up
+- Cognito User pools set up
+- API gateway (with 2 resources and one POST endpoint each + WAF + Client certificate + throttling & rate limit) set up
+- Test the system end-to-end
+- Clean up
